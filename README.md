@@ -47,7 +47,7 @@ Silver
 Sinclair
 Venator
 Vindicta
-Vicous
+Viscous
 Vyper
 Warden
 Wraith
