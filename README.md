@@ -52,4 +52,8 @@ Vyper
 Warden
 Wraith
 Yamato
+
+Future:
+Remove unused materials that are increasing the file size (Holliday, Haze, GT, etc)
+
 ```
